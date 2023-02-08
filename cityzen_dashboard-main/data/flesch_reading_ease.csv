@@ -1,9 +1,0 @@
-Score,Lower Threshold,School Level (US),Notes
-100 - 90,90,5th grade,Very easy to read.  Easily understood by an average 11-year-old student.
-90 - 80,80,6th grade,Easy to read.  Conversational English for consumers.
-80 - 70,70,7th grade,Fairly easy to read.
-70 - 60,60,8th and 9th grade,Plain English.  Easily understood by 13 to 15-year-old students.
-60 - 50,50,10th to 12th grade,Fairly difficult to read.
-50 - 30,30,College,Difficult to read.
-30 - 10,10,College graduate,Very difficult to read. Best understood by university graduates.
-10 - 0,-1000,Professional,Extremely difficult to read.  Best understood by university graduates.

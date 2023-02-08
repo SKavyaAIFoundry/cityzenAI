@@ -11,6 +11,7 @@ if __name__ == '__main__':
     import sys
     sys.path.append("")
     import streamlit as st
+    from pages.p2_functions.func_2 import multiply_two
     from pages import summary_page, neurodiversity, reading_ease, gendered_language, gender_test, analogies_idioms
     from streamlit_extras.let_it_rain import rain
     import tensorflow

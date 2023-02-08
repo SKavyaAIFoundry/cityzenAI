@@ -13,6 +13,8 @@ if __name__ == '__main__':
     import streamlit as st
     from pages import summary_page, neurodiversity, reading_ease, gendered_language, gender_test, analogies_idioms
     from streamlit_extras.let_it_rain import rain
+    import tensorflow
+    from streamlit.script_run_context import get_script_run_ctx
     # page config
     st.set_page_config(page_title='CITYZEN', page_icon=':capital_abcd:')
 

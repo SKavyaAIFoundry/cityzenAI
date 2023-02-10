@@ -1,8 +1,8 @@
 import torch
 
-#import mislib
+
 # if multiprocessing is required...
-#from pages import...
+from pages import summary_page, neurodiversity, reading_ease, gendered_language, gender_test, analogies_idioms
 
 if __name__ == '__main__':
     torch.multiprocessing.freeze_support()

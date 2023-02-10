@@ -1,0 +1,4 @@
+__pycache__
+.venv/
+example_documents/
+temp_image_files/
